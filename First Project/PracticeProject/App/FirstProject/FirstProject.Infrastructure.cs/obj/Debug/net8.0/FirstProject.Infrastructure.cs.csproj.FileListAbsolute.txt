@@ -1,0 +1,68 @@
+D:\Application\FirstProject\FirstProject.Infrastructure.cs\bin\Debug\net8.0\FirstProject.Infrastructure.cs.deps.json
+D:\Application\FirstProject\FirstProject.Infrastructure.cs\bin\Debug\net8.0\FirstProject.Infrastructure.cs.runtimeconfig.json
+D:\Application\FirstProject\FirstProject.Infrastructure.cs\bin\Debug\net8.0\FirstProject.Infrastructure.cs.dll
+D:\Application\FirstProject\FirstProject.Infrastructure.cs\bin\Debug\net8.0\FirstProject.Infrastructure.cs.pdb
+D:\Application\FirstProject\FirstProject.Infrastructure.cs\bin\Debug\net8.0\FirstProject.domain.cs.dll
+D:\Application\FirstProject\FirstProject.Infrastructure.cs\bin\Debug\net8.0\FirstProject.domain.cs.pdb
+D:\Application\FirstProject\FirstProject.Infrastructure.cs\obj\Debug\net8.0\FirstProject.Infrastructure.cs.csproj.AssemblyReference.cache
+D:\Application\FirstProject\FirstProject.Infrastructure.cs\obj\Debug\net8.0\FirstProject.Infrastructure.cs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Application\FirstProject\FirstProject.Infrastructure.cs\obj\Debug\net8.0\FirstProject.Infrastructure.cs.AssemblyInfoInputs.cache
+D:\Application\FirstProject\FirstProject.Infrastructure.cs\obj\Debug\net8.0\FirstProject.Infrastructure.cs.AssemblyInfo.cs
+D:\Application\FirstProject\FirstProject.Infrastructure.cs\obj\Debug\net8.0\FirstProject.Infrastructure.cs.csproj.CoreCompileInputs.cache
+D:\Application\FirstProject\FirstProject.Infrastructure.cs\obj\Debug\net8.0\FirstPro.A4FC3670.Up2Date
+D:\Application\FirstProject\FirstProject.Infrastructure.cs\obj\Debug\net8.0\FirstProject.Infrastructure.cs.dll
+D:\Application\FirstProject\FirstProject.Infrastructure.cs\obj\Debug\net8.0\refint\FirstProject.Infrastructure.cs.dll
+D:\Application\FirstProject\FirstProject.Infrastructure.cs\obj\Debug\net8.0\FirstProject.Infrastructure.cs.pdb
+D:\Application\FirstProject\FirstProject.Infrastructure.cs\obj\Debug\net8.0\FirstProject.Infrastructure.cs.genruntimeconfig.cache
+D:\Application\FirstProject\FirstProject.Infrastructure.cs\obj\Debug\net8.0\ref\FirstProject.Infrastructure.cs.dll
+C:\Users\Tanveer\Downloads\FirstProject\App\FirstProject\FirstProject.Infrastructure.cs\bin\Debug\net8.0\FirstProject.Infrastructure.cs.deps.json
+C:\Users\Tanveer\Downloads\FirstProject\App\FirstProject\FirstProject.Infrastructure.cs\bin\Debug\net8.0\FirstProject.Infrastructure.cs.runtimeconfig.json
+C:\Users\Tanveer\Downloads\FirstProject\App\FirstProject\FirstProject.Infrastructure.cs\bin\Debug\net8.0\FirstProject.Infrastructure.cs.dll
+C:\Users\Tanveer\Downloads\FirstProject\App\FirstProject\FirstProject.Infrastructure.cs\bin\Debug\net8.0\FirstProject.Infrastructure.cs.pdb
+C:\Users\Tanveer\Downloads\FirstProject\App\FirstProject\FirstProject.Infrastructure.cs\bin\Debug\net8.0\FirstProject.domain.cs.dll
+C:\Users\Tanveer\Downloads\FirstProject\App\FirstProject\FirstProject.Infrastructure.cs\bin\Debug\net8.0\FirstProject.domain.cs.pdb
+C:\Users\Tanveer\Downloads\FirstProject\App\FirstProject\FirstProject.Infrastructure.cs\obj\Debug\net8.0\FirstProject.Infrastructure.cs.csproj.AssemblyReference.cache
+C:\Users\Tanveer\Downloads\FirstProject\App\FirstProject\FirstProject.Infrastructure.cs\obj\Debug\net8.0\FirstProject.Infrastructure.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tanveer\Downloads\FirstProject\App\FirstProject\FirstProject.Infrastructure.cs\obj\Debug\net8.0\FirstProject.Infrastructure.cs.AssemblyInfoInputs.cache
+C:\Users\Tanveer\Downloads\FirstProject\App\FirstProject\FirstProject.Infrastructure.cs\obj\Debug\net8.0\FirstProject.Infrastructure.cs.AssemblyInfo.cs
+C:\Users\Tanveer\Downloads\FirstProject\App\FirstProject\FirstProject.Infrastructure.cs\obj\Debug\net8.0\FirstProject.Infrastructure.cs.csproj.CoreCompileInputs.cache
+C:\Users\Tanveer\Downloads\FirstProject\App\FirstProject\FirstProject.Infrastructure.cs\obj\Debug\net8.0\FirstPro.A4FC3670.Up2Date
+C:\Users\Tanveer\Downloads\FirstProject\App\FirstProject\FirstProject.Infrastructure.cs\obj\Debug\net8.0\FirstProject.Infrastructure.cs.dll
+C:\Users\Tanveer\Downloads\FirstProject\App\FirstProject\FirstProject.Infrastructure.cs\obj\Debug\net8.0\refint\FirstProject.Infrastructure.cs.dll
+C:\Users\Tanveer\Downloads\FirstProject\App\FirstProject\FirstProject.Infrastructure.cs\obj\Debug\net8.0\FirstProject.Infrastructure.cs.pdb
+C:\Users\Tanveer\Downloads\FirstProject\App\FirstProject\FirstProject.Infrastructure.cs\obj\Debug\net8.0\FirstProject.Infrastructure.cs.genruntimeconfig.cache
+C:\Users\Tanveer\Downloads\FirstProject\App\FirstProject\FirstProject.Infrastructure.cs\obj\Debug\net8.0\ref\FirstProject.Infrastructure.cs.dll
+C:\Users\ZAKKI BOSS TRADERS\Downloads\PracticeProject\App\FirstProject\FirstProject.Infrastructure.cs\bin\Debug\net8.0\FirstProject.Infrastructure.cs.deps.json
+C:\Users\ZAKKI BOSS TRADERS\Downloads\PracticeProject\App\FirstProject\FirstProject.Infrastructure.cs\bin\Debug\net8.0\FirstProject.Infrastructure.cs.runtimeconfig.json
+C:\Users\ZAKKI BOSS TRADERS\Downloads\PracticeProject\App\FirstProject\FirstProject.Infrastructure.cs\bin\Debug\net8.0\FirstProject.Infrastructure.cs.dll
+C:\Users\ZAKKI BOSS TRADERS\Downloads\PracticeProject\App\FirstProject\FirstProject.Infrastructure.cs\bin\Debug\net8.0\FirstProject.Infrastructure.cs.pdb
+C:\Users\ZAKKI BOSS TRADERS\Downloads\PracticeProject\App\FirstProject\FirstProject.Infrastructure.cs\bin\Debug\net8.0\FirstProject.domain.cs.dll
+C:\Users\ZAKKI BOSS TRADERS\Downloads\PracticeProject\App\FirstProject\FirstProject.Infrastructure.cs\bin\Debug\net8.0\FirstProject.domain.cs.pdb
+C:\Users\ZAKKI BOSS TRADERS\Downloads\PracticeProject\App\FirstProject\FirstProject.Infrastructure.cs\obj\Debug\net8.0\FirstProject.Infrastructure.cs.csproj.AssemblyReference.cache
+C:\Users\ZAKKI BOSS TRADERS\Downloads\PracticeProject\App\FirstProject\FirstProject.Infrastructure.cs\obj\Debug\net8.0\FirstProject.Infrastructure.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZAKKI BOSS TRADERS\Downloads\PracticeProject\App\FirstProject\FirstProject.Infrastructure.cs\obj\Debug\net8.0\FirstProject.Infrastructure.cs.AssemblyInfoInputs.cache
+C:\Users\ZAKKI BOSS TRADERS\Downloads\PracticeProject\App\FirstProject\FirstProject.Infrastructure.cs\obj\Debug\net8.0\FirstProject.Infrastructure.cs.AssemblyInfo.cs
+C:\Users\ZAKKI BOSS TRADERS\Downloads\PracticeProject\App\FirstProject\FirstProject.Infrastructure.cs\obj\Debug\net8.0\FirstProject.Infrastructure.cs.csproj.CoreCompileInputs.cache
+C:\Users\ZAKKI BOSS TRADERS\Downloads\PracticeProject\App\FirstProject\FirstProject.Infrastructure.cs\obj\Debug\net8.0\FirstPro.A4FC3670.Up2Date
+C:\Users\ZAKKI BOSS TRADERS\Downloads\PracticeProject\App\FirstProject\FirstProject.Infrastructure.cs\obj\Debug\net8.0\FirstProject.Infrastructure.cs.dll
+C:\Users\ZAKKI BOSS TRADERS\Downloads\PracticeProject\App\FirstProject\FirstProject.Infrastructure.cs\obj\Debug\net8.0\refint\FirstProject.Infrastructure.cs.dll
+C:\Users\ZAKKI BOSS TRADERS\Downloads\PracticeProject\App\FirstProject\FirstProject.Infrastructure.cs\obj\Debug\net8.0\FirstProject.Infrastructure.cs.pdb
+C:\Users\ZAKKI BOSS TRADERS\Downloads\PracticeProject\App\FirstProject\FirstProject.Infrastructure.cs\obj\Debug\net8.0\FirstProject.Infrastructure.cs.genruntimeconfig.cache
+C:\Users\ZAKKI BOSS TRADERS\Downloads\PracticeProject\App\FirstProject\FirstProject.Infrastructure.cs\obj\Debug\net8.0\ref\FirstProject.Infrastructure.cs.dll
+C:\Users\ZAKKI BOSS TRADERS\Desktop\PracticeProject\App\FirstProject\FirstProject.Infrastructure.cs\obj\Debug\net8.0\FirstProject.Infrastructure.cs.csproj.AssemblyReference.cache
+C:\Users\ZAKKI BOSS TRADERS\Desktop\PracticeProject\App\FirstProject\FirstProject.Infrastructure.cs\obj\Debug\net8.0\FirstProject.Infrastructure.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZAKKI BOSS TRADERS\Desktop\PracticeProject\App\FirstProject\FirstProject.Infrastructure.cs\obj\Debug\net8.0\FirstProject.Infrastructure.cs.AssemblyInfoInputs.cache
+C:\Users\ZAKKI BOSS TRADERS\Desktop\PracticeProject\App\FirstProject\FirstProject.Infrastructure.cs\obj\Debug\net8.0\FirstProject.Infrastructure.cs.AssemblyInfo.cs
+C:\Users\ZAKKI BOSS TRADERS\Desktop\PracticeProject\App\FirstProject\FirstProject.Infrastructure.cs\obj\Debug\net8.0\FirstProject.Infrastructure.cs.csproj.CoreCompileInputs.cache
+C:\Users\ZAKKI BOSS TRADERS\Desktop\PracticeProject\App\FirstProject\FirstProject.Infrastructure.cs\bin\Debug\net8.0\FirstProject.Infrastructure.cs.deps.json
+C:\Users\ZAKKI BOSS TRADERS\Desktop\PracticeProject\App\FirstProject\FirstProject.Infrastructure.cs\bin\Debug\net8.0\FirstProject.Infrastructure.cs.runtimeconfig.json
+C:\Users\ZAKKI BOSS TRADERS\Desktop\PracticeProject\App\FirstProject\FirstProject.Infrastructure.cs\bin\Debug\net8.0\FirstProject.Infrastructure.cs.dll
+C:\Users\ZAKKI BOSS TRADERS\Desktop\PracticeProject\App\FirstProject\FirstProject.Infrastructure.cs\bin\Debug\net8.0\FirstProject.Infrastructure.cs.pdb
+C:\Users\ZAKKI BOSS TRADERS\Desktop\PracticeProject\App\FirstProject\FirstProject.Infrastructure.cs\bin\Debug\net8.0\FirstProject.domain.cs.dll
+C:\Users\ZAKKI BOSS TRADERS\Desktop\PracticeProject\App\FirstProject\FirstProject.Infrastructure.cs\bin\Debug\net8.0\FirstProject.domain.cs.pdb
+C:\Users\ZAKKI BOSS TRADERS\Desktop\PracticeProject\App\FirstProject\FirstProject.Infrastructure.cs\obj\Debug\net8.0\FirstPro.A4FC3670.Up2Date
+C:\Users\ZAKKI BOSS TRADERS\Desktop\PracticeProject\App\FirstProject\FirstProject.Infrastructure.cs\obj\Debug\net8.0\FirstProject.Infrastructure.cs.dll
+C:\Users\ZAKKI BOSS TRADERS\Desktop\PracticeProject\App\FirstProject\FirstProject.Infrastructure.cs\obj\Debug\net8.0\refint\FirstProject.Infrastructure.cs.dll
+C:\Users\ZAKKI BOSS TRADERS\Desktop\PracticeProject\App\FirstProject\FirstProject.Infrastructure.cs\obj\Debug\net8.0\FirstProject.Infrastructure.cs.pdb
+C:\Users\ZAKKI BOSS TRADERS\Desktop\PracticeProject\App\FirstProject\FirstProject.Infrastructure.cs\obj\Debug\net8.0\FirstProject.Infrastructure.cs.genruntimeconfig.cache
+C:\Users\ZAKKI BOSS TRADERS\Desktop\PracticeProject\App\FirstProject\FirstProject.Infrastructure.cs\obj\Debug\net8.0\ref\FirstProject.Infrastructure.cs.dll

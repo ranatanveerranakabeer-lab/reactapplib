@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "pCdgG6PL5FU=",
+  "success": true,
+  "projectFilePath": "C:\\First Project\\First Project\\PracticeProject\\App\\FirstProject\\FirstProject.domain.cs\\FirstProject.domain.cs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tanveer\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.22\\microsoft.windowsdesktop.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\Tanveer\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.22\\microsoft.netcore.app.ref.8.0.22.nupkg.sha512",
+    "C:\\Users\\Tanveer\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.22\\microsoft.aspnetcore.app.ref.8.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}

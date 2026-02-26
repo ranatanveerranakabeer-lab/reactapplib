@@ -1,0 +1,68 @@
+D:\Application\FirstProject\FirstProject.Application.cs\bin\Debug\net8.0\FirstProject.Application.cs.deps.json
+D:\Application\FirstProject\FirstProject.Application.cs\bin\Debug\net8.0\FirstProject.Application.cs.runtimeconfig.json
+D:\Application\FirstProject\FirstProject.Application.cs\bin\Debug\net8.0\FirstProject.Application.cs.dll
+D:\Application\FirstProject\FirstProject.Application.cs\bin\Debug\net8.0\FirstProject.Application.cs.pdb
+D:\Application\FirstProject\FirstProject.Application.cs\bin\Debug\net8.0\FirstProject.domain.cs.dll
+D:\Application\FirstProject\FirstProject.Application.cs\bin\Debug\net8.0\FirstProject.domain.cs.pdb
+D:\Application\FirstProject\FirstProject.Application.cs\obj\Debug\net8.0\FirstProject.Application.cs.csproj.AssemblyReference.cache
+D:\Application\FirstProject\FirstProject.Application.cs\obj\Debug\net8.0\FirstProject.Application.cs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Application\FirstProject\FirstProject.Application.cs\obj\Debug\net8.0\FirstProject.Application.cs.AssemblyInfoInputs.cache
+D:\Application\FirstProject\FirstProject.Application.cs\obj\Debug\net8.0\FirstProject.Application.cs.AssemblyInfo.cs
+D:\Application\FirstProject\FirstProject.Application.cs\obj\Debug\net8.0\FirstProject.Application.cs.csproj.CoreCompileInputs.cache
+D:\Application\FirstProject\FirstProject.Application.cs\obj\Debug\net8.0\FirstPro.B6D1A403.Up2Date
+D:\Application\FirstProject\FirstProject.Application.cs\obj\Debug\net8.0\FirstProject.Application.cs.dll
+D:\Application\FirstProject\FirstProject.Application.cs\obj\Debug\net8.0\refint\FirstProject.Application.cs.dll
+D:\Application\FirstProject\FirstProject.Application.cs\obj\Debug\net8.0\FirstProject.Application.cs.pdb
+D:\Application\FirstProject\FirstProject.Application.cs\obj\Debug\net8.0\FirstProject.Application.cs.genruntimeconfig.cache
+D:\Application\FirstProject\FirstProject.Application.cs\obj\Debug\net8.0\ref\FirstProject.Application.cs.dll
+C:\Users\Tanveer\Downloads\FirstProject\App\FirstProject\FirstProject.Application.cs\bin\Debug\net8.0\FirstProject.Application.cs.deps.json
+C:\Users\Tanveer\Downloads\FirstProject\App\FirstProject\FirstProject.Application.cs\bin\Debug\net8.0\FirstProject.Application.cs.runtimeconfig.json
+C:\Users\Tanveer\Downloads\FirstProject\App\FirstProject\FirstProject.Application.cs\bin\Debug\net8.0\FirstProject.Application.cs.dll
+C:\Users\Tanveer\Downloads\FirstProject\App\FirstProject\FirstProject.Application.cs\bin\Debug\net8.0\FirstProject.Application.cs.pdb
+C:\Users\Tanveer\Downloads\FirstProject\App\FirstProject\FirstProject.Application.cs\bin\Debug\net8.0\FirstProject.domain.cs.dll
+C:\Users\Tanveer\Downloads\FirstProject\App\FirstProject\FirstProject.Application.cs\bin\Debug\net8.0\FirstProject.domain.cs.pdb
+C:\Users\Tanveer\Downloads\FirstProject\App\FirstProject\FirstProject.Application.cs\obj\Debug\net8.0\FirstProject.Application.cs.csproj.AssemblyReference.cache
+C:\Users\Tanveer\Downloads\FirstProject\App\FirstProject\FirstProject.Application.cs\obj\Debug\net8.0\FirstProject.Application.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tanveer\Downloads\FirstProject\App\FirstProject\FirstProject.Application.cs\obj\Debug\net8.0\FirstProject.Application.cs.AssemblyInfoInputs.cache
+C:\Users\Tanveer\Downloads\FirstProject\App\FirstProject\FirstProject.Application.cs\obj\Debug\net8.0\FirstProject.Application.cs.AssemblyInfo.cs
+C:\Users\Tanveer\Downloads\FirstProject\App\FirstProject\FirstProject.Application.cs\obj\Debug\net8.0\FirstProject.Application.cs.csproj.CoreCompileInputs.cache
+C:\Users\Tanveer\Downloads\FirstProject\App\FirstProject\FirstProject.Application.cs\obj\Debug\net8.0\FirstPro.B6D1A403.Up2Date
+C:\Users\Tanveer\Downloads\FirstProject\App\FirstProject\FirstProject.Application.cs\obj\Debug\net8.0\FirstProject.Application.cs.dll
+C:\Users\Tanveer\Downloads\FirstProject\App\FirstProject\FirstProject.Application.cs\obj\Debug\net8.0\refint\FirstProject.Application.cs.dll
+C:\Users\Tanveer\Downloads\FirstProject\App\FirstProject\FirstProject.Application.cs\obj\Debug\net8.0\FirstProject.Application.cs.pdb
+C:\Users\Tanveer\Downloads\FirstProject\App\FirstProject\FirstProject.Application.cs\obj\Debug\net8.0\FirstProject.Application.cs.genruntimeconfig.cache
+C:\Users\Tanveer\Downloads\FirstProject\App\FirstProject\FirstProject.Application.cs\obj\Debug\net8.0\ref\FirstProject.Application.cs.dll
+C:\Users\ZAKKI BOSS TRADERS\Downloads\PracticeProject\App\FirstProject\FirstProject.Application.cs\bin\Debug\net8.0\FirstProject.Application.cs.deps.json
+C:\Users\ZAKKI BOSS TRADERS\Downloads\PracticeProject\App\FirstProject\FirstProject.Application.cs\bin\Debug\net8.0\FirstProject.Application.cs.runtimeconfig.json
+C:\Users\ZAKKI BOSS TRADERS\Downloads\PracticeProject\App\FirstProject\FirstProject.Application.cs\bin\Debug\net8.0\FirstProject.Application.cs.dll
+C:\Users\ZAKKI BOSS TRADERS\Downloads\PracticeProject\App\FirstProject\FirstProject.Application.cs\bin\Debug\net8.0\FirstProject.Application.cs.pdb
+C:\Users\ZAKKI BOSS TRADERS\Downloads\PracticeProject\App\FirstProject\FirstProject.Application.cs\bin\Debug\net8.0\FirstProject.domain.cs.dll
+C:\Users\ZAKKI BOSS TRADERS\Downloads\PracticeProject\App\FirstProject\FirstProject.Application.cs\bin\Debug\net8.0\FirstProject.domain.cs.pdb
+C:\Users\ZAKKI BOSS TRADERS\Downloads\PracticeProject\App\FirstProject\FirstProject.Application.cs\obj\Debug\net8.0\FirstProject.Application.cs.csproj.AssemblyReference.cache
+C:\Users\ZAKKI BOSS TRADERS\Downloads\PracticeProject\App\FirstProject\FirstProject.Application.cs\obj\Debug\net8.0\FirstProject.Application.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZAKKI BOSS TRADERS\Downloads\PracticeProject\App\FirstProject\FirstProject.Application.cs\obj\Debug\net8.0\FirstProject.Application.cs.AssemblyInfoInputs.cache
+C:\Users\ZAKKI BOSS TRADERS\Downloads\PracticeProject\App\FirstProject\FirstProject.Application.cs\obj\Debug\net8.0\FirstProject.Application.cs.AssemblyInfo.cs
+C:\Users\ZAKKI BOSS TRADERS\Downloads\PracticeProject\App\FirstProject\FirstProject.Application.cs\obj\Debug\net8.0\FirstProject.Application.cs.csproj.CoreCompileInputs.cache
+C:\Users\ZAKKI BOSS TRADERS\Downloads\PracticeProject\App\FirstProject\FirstProject.Application.cs\obj\Debug\net8.0\FirstPro.B6D1A403.Up2Date
+C:\Users\ZAKKI BOSS TRADERS\Downloads\PracticeProject\App\FirstProject\FirstProject.Application.cs\obj\Debug\net8.0\FirstProject.Application.cs.dll
+C:\Users\ZAKKI BOSS TRADERS\Downloads\PracticeProject\App\FirstProject\FirstProject.Application.cs\obj\Debug\net8.0\refint\FirstProject.Application.cs.dll
+C:\Users\ZAKKI BOSS TRADERS\Downloads\PracticeProject\App\FirstProject\FirstProject.Application.cs\obj\Debug\net8.0\FirstProject.Application.cs.pdb
+C:\Users\ZAKKI BOSS TRADERS\Downloads\PracticeProject\App\FirstProject\FirstProject.Application.cs\obj\Debug\net8.0\FirstProject.Application.cs.genruntimeconfig.cache
+C:\Users\ZAKKI BOSS TRADERS\Downloads\PracticeProject\App\FirstProject\FirstProject.Application.cs\obj\Debug\net8.0\ref\FirstProject.Application.cs.dll
+C:\Users\ZAKKI BOSS TRADERS\Desktop\PracticeProject\App\FirstProject\FirstProject.Application.cs\bin\Debug\net8.0\FirstProject.Application.cs.deps.json
+C:\Users\ZAKKI BOSS TRADERS\Desktop\PracticeProject\App\FirstProject\FirstProject.Application.cs\bin\Debug\net8.0\FirstProject.Application.cs.runtimeconfig.json
+C:\Users\ZAKKI BOSS TRADERS\Desktop\PracticeProject\App\FirstProject\FirstProject.Application.cs\bin\Debug\net8.0\FirstProject.Application.cs.dll
+C:\Users\ZAKKI BOSS TRADERS\Desktop\PracticeProject\App\FirstProject\FirstProject.Application.cs\bin\Debug\net8.0\FirstProject.Application.cs.pdb
+C:\Users\ZAKKI BOSS TRADERS\Desktop\PracticeProject\App\FirstProject\FirstProject.Application.cs\bin\Debug\net8.0\FirstProject.domain.cs.dll
+C:\Users\ZAKKI BOSS TRADERS\Desktop\PracticeProject\App\FirstProject\FirstProject.Application.cs\bin\Debug\net8.0\FirstProject.domain.cs.pdb
+C:\Users\ZAKKI BOSS TRADERS\Desktop\PracticeProject\App\FirstProject\FirstProject.Application.cs\obj\Debug\net8.0\FirstProject.Application.cs.csproj.AssemblyReference.cache
+C:\Users\ZAKKI BOSS TRADERS\Desktop\PracticeProject\App\FirstProject\FirstProject.Application.cs\obj\Debug\net8.0\FirstProject.Application.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZAKKI BOSS TRADERS\Desktop\PracticeProject\App\FirstProject\FirstProject.Application.cs\obj\Debug\net8.0\FirstProject.Application.cs.AssemblyInfoInputs.cache
+C:\Users\ZAKKI BOSS TRADERS\Desktop\PracticeProject\App\FirstProject\FirstProject.Application.cs\obj\Debug\net8.0\FirstProject.Application.cs.AssemblyInfo.cs
+C:\Users\ZAKKI BOSS TRADERS\Desktop\PracticeProject\App\FirstProject\FirstProject.Application.cs\obj\Debug\net8.0\FirstProject.Application.cs.csproj.CoreCompileInputs.cache
+C:\Users\ZAKKI BOSS TRADERS\Desktop\PracticeProject\App\FirstProject\FirstProject.Application.cs\obj\Debug\net8.0\FirstPro.B6D1A403.Up2Date
+C:\Users\ZAKKI BOSS TRADERS\Desktop\PracticeProject\App\FirstProject\FirstProject.Application.cs\obj\Debug\net8.0\FirstProject.Application.cs.dll
+C:\Users\ZAKKI BOSS TRADERS\Desktop\PracticeProject\App\FirstProject\FirstProject.Application.cs\obj\Debug\net8.0\refint\FirstProject.Application.cs.dll
+C:\Users\ZAKKI BOSS TRADERS\Desktop\PracticeProject\App\FirstProject\FirstProject.Application.cs\obj\Debug\net8.0\FirstProject.Application.cs.pdb
+C:\Users\ZAKKI BOSS TRADERS\Desktop\PracticeProject\App\FirstProject\FirstProject.Application.cs\obj\Debug\net8.0\FirstProject.Application.cs.genruntimeconfig.cache
+C:\Users\ZAKKI BOSS TRADERS\Desktop\PracticeProject\App\FirstProject\FirstProject.Application.cs\obj\Debug\net8.0\ref\FirstProject.Application.cs.dll

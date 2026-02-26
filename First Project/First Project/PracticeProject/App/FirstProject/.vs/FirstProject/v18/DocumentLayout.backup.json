@@ -1,0 +1,524 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\First Project\\First Project\\PracticeProject\\App\\FirstProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F9C3687-249E-43F7-93FD-4B28C303C79A}|FirstProject.Application.cs\\FirstProject.Application.cs.csproj|c:\\first project\\first project\\practiceproject\\app\\firstproject\\firstproject.application.cs\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F9C3687-249E-43F7-93FD-4B28C303C79A}|FirstProject.Application.cs\\FirstProject.Application.cs.csproj|solutionrelative:firstproject.application.cs\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F9C3687-249E-43F7-93FD-4B28C303C79A}|FirstProject.Application.cs\\FirstProject.Application.cs.csproj|c:\\first project\\first project\\practiceproject\\app\\firstproject\\firstproject.application.cs\\interface\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F9C3687-249E-43F7-93FD-4B28C303C79A}|FirstProject.Application.cs\\FirstProject.Application.cs.csproj|solutionrelative:firstproject.application.cs\\interface\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B94BF1D2-3BB7-4BC3-ABEE-4A99D3691CAF}|FirstProject\\FirstProject.csproj|c:\\first project\\first project\\practiceproject\\app\\firstproject\\firstproject\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B94BF1D2-3BB7-4BC3-ABEE-4A99D3691CAF}|FirstProject\\FirstProject.csproj|solutionrelative:firstproject\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393E5E56-C435-488B-8A07-CFFF28DAA2D5}|FirstProject.domain.cs\\FirstProject.domain.cs.csproj|c:\\first project\\first project\\practiceproject\\app\\firstproject\\firstproject.domain.cs\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{393E5E56-C435-488B-8A07-CFFF28DAA2D5}|FirstProject.domain.cs\\FirstProject.domain.cs.csproj|solutionrelative:firstproject.domain.cs\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F9C3687-249E-43F7-93FD-4B28C303C79A}|FirstProject.Application.cs\\FirstProject.Application.cs.csproj|c:\\first project\\first project\\practiceproject\\app\\firstproject\\firstproject.application.cs\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F9C3687-249E-43F7-93FD-4B28C303C79A}|FirstProject.Application.cs\\FirstProject.Application.cs.csproj|solutionrelative:firstproject.application.cs\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B94BF1D2-3BB7-4BC3-ABEE-4A99D3691CAF}|FirstProject\\FirstProject.csproj|c:\\first project\\first project\\practiceproject\\app\\firstproject\\firstproject\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B94BF1D2-3BB7-4BC3-ABEE-4A99D3691CAF}|FirstProject\\FirstProject.csproj|solutionrelative:firstproject\\controllers\\transactioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B61D4E-9387-4107-A809-5E8356DFF0EA}|FirstProject.Infrastructure.cs\\FirstProject.Infrastructure.cs.csproj|c:\\first project\\first project\\practiceproject\\app\\firstproject\\firstproject.infrastructure.cs\\firstproject.infrastructure.cs.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A0B61D4E-9387-4107-A809-5E8356DFF0EA}|FirstProject.Infrastructure.cs\\FirstProject.Infrastructure.cs.csproj|solutionrelative:firstproject.infrastructure.cs\\firstproject.infrastructure.cs.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B94BF1D2-3BB7-4BC3-ABEE-4A99D3691CAF}|FirstProject\\FirstProject.csproj|c:\\first project\\first project\\practiceproject\\app\\firstproject\\firstproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B94BF1D2-3BB7-4BC3-ABEE-4A99D3691CAF}|FirstProject\\FirstProject.csproj|solutionrelative:firstproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B94BF1D2-3BB7-4BC3-ABEE-4A99D3691CAF}|FirstProject\\FirstProject.csproj|c:\\first project\\first project\\practiceproject\\app\\firstproject\\firstproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B94BF1D2-3BB7-4BC3-ABEE-4A99D3691CAF}|FirstProject\\FirstProject.csproj|solutionrelative:firstproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B61D4E-9387-4107-A809-5E8356DFF0EA}|FirstProject.Infrastructure.cs\\FirstProject.Infrastructure.cs.csproj|c:\\first project\\first project\\practiceproject\\app\\firstproject\\firstproject.infrastructure.cs\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0B61D4E-9387-4107-A809-5E8356DFF0EA}|FirstProject.Infrastructure.cs\\FirstProject.Infrastructure.cs.csproj|solutionrelative:firstproject.infrastructure.cs\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393E5E56-C435-488B-8A07-CFFF28DAA2D5}|FirstProject.domain.cs\\FirstProject.domain.cs.csproj|c:\\first project\\first project\\practiceproject\\app\\firstproject\\firstproject.domain.cs\\interface\\itransactioninterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{393E5E56-C435-488B-8A07-CFFF28DAA2D5}|FirstProject.domain.cs\\FirstProject.domain.cs.csproj|solutionrelative:firstproject.domain.cs\\interface\\itransactioninterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B61D4E-9387-4107-A809-5E8356DFF0EA}|FirstProject.Infrastructure.cs\\FirstProject.Infrastructure.cs.csproj|c:\\first project\\first project\\practiceproject\\app\\firstproject\\firstproject.infrastructure.cs\\repository\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0B61D4E-9387-4107-A809-5E8356DFF0EA}|FirstProject.Infrastructure.cs\\FirstProject.Infrastructure.cs.csproj|solutionrelative:firstproject.infrastructure.cs\\repository\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F9C3687-249E-43F7-93FD-4B28C303C79A}|FirstProject.Application.cs\\FirstProject.Application.cs.csproj|c:\\first project\\first project\\practiceproject\\app\\firstproject\\firstproject.application.cs\\interface\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F9C3687-249E-43F7-93FD-4B28C303C79A}|FirstProject.Application.cs\\FirstProject.Application.cs.csproj|solutionrelative:firstproject.application.cs\\interface\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393E5E56-C435-488B-8A07-CFFF28DAA2D5}|FirstProject.domain.cs\\FirstProject.domain.cs.csproj|c:\\first project\\first project\\practiceproject\\app\\firstproject\\firstproject.domain.cs\\entities\\transactiondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{393E5E56-C435-488B-8A07-CFFF28DAA2D5}|FirstProject.domain.cs\\FirstProject.domain.cs.csproj|solutionrelative:firstproject.domain.cs\\entities\\transactiondata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F9C3687-249E-43F7-93FD-4B28C303C79A}|FirstProject.Application.cs\\FirstProject.Application.cs.csproj|c:\\first project\\first project\\practiceproject\\app\\firstproject\\firstproject.application.cs\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F9C3687-249E-43F7-93FD-4B28C303C79A}|FirstProject.Application.cs\\FirstProject.Application.cs.csproj|solutionrelative:firstproject.application.cs\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F9C3687-249E-43F7-93FD-4B28C303C79A}|FirstProject.Application.cs\\FirstProject.Application.cs.csproj|c:\\first project\\first project\\practiceproject\\app\\firstproject\\firstproject.application.cs\\interface\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F9C3687-249E-43F7-93FD-4B28C303C79A}|FirstProject.Application.cs\\FirstProject.Application.cs.csproj|solutionrelative:firstproject.application.cs\\interface\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B94BF1D2-3BB7-4BC3-ABEE-4A99D3691CAF}|FirstProject\\FirstProject.csproj|c:\\first project\\first project\\practiceproject\\app\\firstproject\\firstproject\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B94BF1D2-3BB7-4BC3-ABEE-4A99D3691CAF}|FirstProject\\FirstProject.csproj|solutionrelative:firstproject\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B61D4E-9387-4107-A809-5E8356DFF0EA}|FirstProject.Infrastructure.cs\\FirstProject.Infrastructure.cs.csproj|c:\\first project\\first project\\practiceproject\\app\\firstproject\\firstproject.infrastructure.cs\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0B61D4E-9387-4107-A809-5E8356DFF0EA}|FirstProject.Infrastructure.cs\\FirstProject.Infrastructure.cs.csproj|solutionrelative:firstproject.infrastructure.cs\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B61D4E-9387-4107-A809-5E8356DFF0EA}|FirstProject.Infrastructure.cs\\FirstProject.Infrastructure.cs.csproj|c:\\first project\\first project\\practiceproject\\app\\firstproject\\firstproject.infrastructure.cs\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0B61D4E-9387-4107-A809-5E8356DFF0EA}|FirstProject.Infrastructure.cs\\FirstProject.Infrastructure.cs.csproj|solutionrelative:firstproject.infrastructure.cs\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393E5E56-C435-488B-8A07-CFFF28DAA2D5}|FirstProject.domain.cs\\FirstProject.domain.cs.csproj|c:\\first project\\first project\\practiceproject\\app\\firstproject\\firstproject.domain.cs\\interface\\iorderinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{393E5E56-C435-488B-8A07-CFFF28DAA2D5}|FirstProject.domain.cs\\FirstProject.domain.cs.csproj|solutionrelative:firstproject.domain.cs\\interface\\iorderinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393E5E56-C435-488B-8A07-CFFF28DAA2D5}|FirstProject.domain.cs\\FirstProject.domain.cs.csproj|c:\\first project\\first project\\practiceproject\\app\\firstproject\\firstproject.domain.cs\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{393E5E56-C435-488B-8A07-CFFF28DAA2D5}|FirstProject.domain.cs\\FirstProject.domain.cs.csproj|solutionrelative:firstproject.domain.cs\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B94BF1D2-3BB7-4BC3-ABEE-4A99D3691CAF}|FirstProject\\FirstProject.csproj|c:\\first project\\first project\\practiceproject\\app\\firstproject\\firstproject\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B94BF1D2-3BB7-4BC3-ABEE-4A99D3691CAF}|FirstProject\\FirstProject.csproj|solutionrelative:firstproject\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F9C3687-249E-43F7-93FD-4B28C303C79A}|FirstProject.Application.cs\\FirstProject.Application.cs.csproj|c:\\first project\\first project\\practiceproject\\app\\firstproject\\firstproject.application.cs\\interface\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F9C3687-249E-43F7-93FD-4B28C303C79A}|FirstProject.Application.cs\\FirstProject.Application.cs.csproj|solutionrelative:firstproject.application.cs\\interface\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F9C3687-249E-43F7-93FD-4B28C303C79A}|FirstProject.Application.cs\\FirstProject.Application.cs.csproj|c:\\first project\\first project\\practiceproject\\app\\firstproject\\firstproject.application.cs\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F9C3687-249E-43F7-93FD-4B28C303C79A}|FirstProject.Application.cs\\FirstProject.Application.cs.csproj|solutionrelative:firstproject.application.cs\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B61D4E-9387-4107-A809-5E8356DFF0EA}|FirstProject.Infrastructure.cs\\FirstProject.Infrastructure.cs.csproj|c:\\first project\\first project\\practiceproject\\app\\firstproject\\firstproject.infrastructure.cs\\repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0B61D4E-9387-4107-A809-5E8356DFF0EA}|FirstProject.Infrastructure.cs\\FirstProject.Infrastructure.cs.csproj|solutionrelative:firstproject.infrastructure.cs\\repository\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393E5E56-C435-488B-8A07-CFFF28DAA2D5}|FirstProject.domain.cs\\FirstProject.domain.cs.csproj|c:\\first project\\first project\\practiceproject\\app\\firstproject\\firstproject.domain.cs\\interface\\iuserinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{393E5E56-C435-488B-8A07-CFFF28DAA2D5}|FirstProject.domain.cs\\FirstProject.domain.cs.csproj|solutionrelative:firstproject.domain.cs\\interface\\iuserinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393E5E56-C435-488B-8A07-CFFF28DAA2D5}|FirstProject.domain.cs\\FirstProject.domain.cs.csproj|c:\\first project\\first project\\practiceproject\\app\\firstproject\\firstproject.domain.cs\\interface\\iproductinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{393E5E56-C435-488B-8A07-CFFF28DAA2D5}|FirstProject.domain.cs\\FirstProject.domain.cs.csproj|solutionrelative:firstproject.domain.cs\\interface\\iproductinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393E5E56-C435-488B-8A07-CFFF28DAA2D5}|FirstProject.domain.cs\\FirstProject.domain.cs.csproj|c:\\first project\\first project\\practiceproject\\app\\firstproject\\firstproject.domain.cs\\interface\\icustomerinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{393E5E56-C435-488B-8A07-CFFF28DAA2D5}|FirstProject.domain.cs\\FirstProject.domain.cs.csproj|solutionrelative:firstproject.domain.cs\\interface\\icustomerinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393E5E56-C435-488B-8A07-CFFF28DAA2D5}|FirstProject.domain.cs\\FirstProject.domain.cs.csproj|c:\\first project\\first project\\practiceproject\\app\\firstproject\\firstproject.domain.cs\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{393E5E56-C435-488B-8A07-CFFF28DAA2D5}|FirstProject.domain.cs\\FirstProject.domain.cs.csproj|solutionrelative:firstproject.domain.cs\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393E5E56-C435-488B-8A07-CFFF28DAA2D5}|FirstProject.domain.cs\\FirstProject.domain.cs.csproj|c:\\first project\\first project\\practiceproject\\app\\firstproject\\firstproject.domain.cs\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{393E5E56-C435-488B-8A07-CFFF28DAA2D5}|FirstProject.domain.cs\\FirstProject.domain.cs.csproj|solutionrelative:firstproject.domain.cs\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\First Project\\First Project\\PracticeProject\\App\\FirstProject\\FirstProject\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "FirstProject\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\First Project\\First Project\\PracticeProject\\App\\FirstProject\\FirstProject\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "FirstProject\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAuwEQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T16:01:27.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ITransactionService.cs",
+              "DocumentMoniker": "C:\\First Project\\First Project\\PracticeProject\\App\\FirstProject\\FirstProject.Application.cs\\Interface\\ITransactionService.cs",
+              "RelativeDocumentMoniker": "FirstProject.Application.cs\\Interface\\ITransactionService.cs",
+              "ToolTip": "C:\\First Project\\First Project\\PracticeProject\\App\\FirstProject\\FirstProject.Application.cs\\Interface\\ITransactionService.cs",
+              "RelativeToolTip": "FirstProject.Application.cs\\Interface\\ITransactionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T16:00:54.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TransactionController.cs",
+              "DocumentMoniker": "C:\\First Project\\First Project\\PracticeProject\\App\\FirstProject\\FirstProject\\Controllers\\TransactionController.cs",
+              "RelativeDocumentMoniker": "FirstProject\\Controllers\\TransactionController.cs",
+              "ToolTip": "C:\\First Project\\First Project\\PracticeProject\\App\\FirstProject\\FirstProject\\Controllers\\TransactionController.cs",
+              "RelativeToolTip": "FirstProject\\Controllers\\TransactionController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAjwCUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T17:14:03.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\First Project\\First Project\\PracticeProject\\App\\FirstProject\\FirstProject.domain.cs\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "FirstProject.domain.cs\\Entities\\Product.cs",
+              "ToolTip": "C:\\First Project\\First Project\\PracticeProject\\App\\FirstProject\\FirstProject.domain.cs\\Entities\\Product.cs",
+              "RelativeToolTip": "FirstProject.domain.cs\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T15:54:58.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TransactionService.cs",
+              "DocumentMoniker": "C:\\First Project\\First Project\\PracticeProject\\App\\FirstProject\\FirstProject.Application.cs\\Services\\TransactionService.cs",
+              "RelativeDocumentMoniker": "FirstProject.Application.cs\\Services\\TransactionService.cs",
+              "ToolTip": "C:\\First Project\\First Project\\PracticeProject\\App\\FirstProject\\FirstProject.Application.cs\\Services\\TransactionService.cs",
+              "RelativeToolTip": "FirstProject.Application.cs\\Services\\TransactionService.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAjwDoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T16:00:14.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\First Project\\First Project\\PracticeProject\\App\\FirstProject\\FirstProject.Application.cs\\Interface\\IProductService.cs",
+              "RelativeDocumentMoniker": "FirstProject.Application.cs\\Interface\\IProductService.cs",
+              "ToolTip": "C:\\First Project\\First Project\\PracticeProject\\App\\FirstProject\\FirstProject.Application.cs\\Interface\\IProductService.cs",
+              "RelativeToolTip": "FirstProject.Application.cs\\Interface\\IProductService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAD4vxcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T16:00:01.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\First Project\\First Project\\PracticeProject\\App\\FirstProject\\FirstProject.Application.cs\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "FirstProject.Application.cs\\Services\\ProductService.cs",
+              "ToolTip": "C:\\First Project\\First Project\\PracticeProject\\App\\FirstProject\\FirstProject.Application.cs\\Services\\ProductService.cs",
+              "RelativeToolTip": "FirstProject.Application.cs\\Services\\ProductService.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAgwE8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T15:59:38.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TransactionRepository.cs",
+              "DocumentMoniker": "C:\\First Project\\First Project\\PracticeProject\\App\\FirstProject\\FirstProject.Infrastructure.cs\\Repository\\TransactionRepository.cs",
+              "RelativeDocumentMoniker": "FirstProject.Infrastructure.cs\\Repository\\TransactionRepository.cs",
+              "ToolTip": "C:\\First Project\\First Project\\PracticeProject\\App\\FirstProject\\FirstProject.Infrastructure.cs\\Repository\\TransactionRepository.cs",
+              "RelativeToolTip": "FirstProject.Infrastructure.cs\\Repository\\TransactionRepository.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA0wB4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T15:57:42.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\First Project\\First Project\\PracticeProject\\App\\FirstProject\\FirstProject\\appsettings.json",
+              "RelativeDocumentMoniker": "FirstProject\\appsettings.json",
+              "ToolTip": "C:\\First Project\\First Project\\PracticeProject\\App\\FirstProject\\FirstProject\\appsettings.json",
+              "RelativeToolTip": "FirstProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-25T17:49:21.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FirstProject.Infrastructure.cs",
+              "DocumentMoniker": "C:\\First Project\\First Project\\PracticeProject\\App\\FirstProject\\FirstProject.Infrastructure.cs\\FirstProject.Infrastructure.cs.csproj",
+              "RelativeDocumentMoniker": "FirstProject.Infrastructure.cs\\FirstProject.Infrastructure.cs.csproj",
+              "ToolTip": "C:\\First Project\\First Project\\PracticeProject\\App\\FirstProject\\FirstProject.Infrastructure.cs\\FirstProject.Infrastructure.cs.csproj",
+              "RelativeToolTip": "FirstProject.Infrastructure.cs\\FirstProject.Infrastructure.cs.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-26T17:40:19.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ITransactionInterface.cs",
+              "DocumentMoniker": "C:\\First Project\\First Project\\PracticeProject\\App\\FirstProject\\FirstProject.domain.cs\\Interface\\ITransactionInterface.cs",
+              "RelativeDocumentMoniker": "FirstProject.domain.cs\\Interface\\ITransactionInterface.cs",
+              "ToolTip": "C:\\First Project\\First Project\\PracticeProject\\App\\FirstProject\\FirstProject.domain.cs\\Interface\\ITransactionInterface.cs",
+              "RelativeToolTip": "FirstProject.domain.cs\\Interface\\ITransactionInterface.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T15:56:11.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\First Project\\First Project\\PracticeProject\\App\\FirstProject\\FirstProject\\Program.cs",
+              "RelativeDocumentMoniker": "FirstProject\\Program.cs",
+              "ToolTip": "C:\\First Project\\First Project\\PracticeProject\\App\\FirstProject\\FirstProject\\Program.cs",
+              "RelativeToolTip": "FirstProject\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAcwCQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T18:14:07.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\First Project\\First Project\\PracticeProject\\App\\FirstProject\\FirstProject.Infrastructure.cs\\DataContext.cs",
+              "RelativeDocumentMoniker": "FirstProject.Infrastructure.cs\\DataContext.cs",
+              "ToolTip": "C:\\First Project\\First Project\\PracticeProject\\App\\FirstProject\\FirstProject.Infrastructure.cs\\DataContext.cs",
+              "RelativeToolTip": "FirstProject.Infrastructure.cs\\DataContext.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T17:12:19.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TransactionData.cs",
+              "DocumentMoniker": "C:\\First Project\\First Project\\PracticeProject\\App\\FirstProject\\FirstProject.domain.cs\\Entities\\TransactionData.cs",
+              "RelativeDocumentMoniker": "FirstProject.domain.cs\\Entities\\TransactionData.cs",
+              "ToolTip": "C:\\First Project\\First Project\\PracticeProject\\App\\FirstProject\\FirstProject.domain.cs\\Entities\\TransactionData.cs",
+              "RelativeToolTip": "FirstProject.domain.cs\\Entities\\TransactionData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T20:02:12.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\First Project\\First Project\\PracticeProject\\App\\FirstProject\\FirstProject.Application.cs\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "FirstProject.Application.cs\\Services\\OrderService.cs",
+              "ToolTip": "C:\\First Project\\First Project\\PracticeProject\\App\\FirstProject\\FirstProject.Application.cs\\Services\\OrderService.cs",
+              "RelativeToolTip": "FirstProject.Application.cs\\Services\\OrderService.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAewGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T20:28:33.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\First Project\\First Project\\PracticeProject\\App\\FirstProject\\FirstProject.Application.cs\\Interface\\IOrderService.cs",
+              "RelativeDocumentMoniker": "FirstProject.Application.cs\\Interface\\IOrderService.cs",
+              "ToolTip": "C:\\First Project\\First Project\\PracticeProject\\App\\FirstProject\\FirstProject.Application.cs\\Interface\\IOrderService.cs",
+              "RelativeToolTip": "FirstProject.Application.cs\\Interface\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-22T20:27:35.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\First Project\\First Project\\PracticeProject\\App\\FirstProject\\FirstProject.Infrastructure.cs\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "FirstProject.Infrastructure.cs\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\First Project\\First Project\\PracticeProject\\App\\FirstProject\\FirstProject.Infrastructure.cs\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "FirstProject.Infrastructure.cs\\Repository\\ProductRepository.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T15:57:29.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\First Project\\First Project\\PracticeProject\\App\\FirstProject\\FirstProject\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "FirstProject\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\First Project\\First Project\\PracticeProject\\App\\FirstProject\\FirstProject\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "FirstProject\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAjwBcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T16:01:14.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\First Project\\First Project\\PracticeProject\\App\\FirstProject\\FirstProject.Infrastructure.cs\\Repository\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "FirstProject.Infrastructure.cs\\Repository\\OrderRepository.cs",
+              "ToolTip": "C:\\First Project\\First Project\\PracticeProject\\App\\FirstProject\\FirstProject.Infrastructure.cs\\Repository\\OrderRepository.cs",
+              "RelativeToolTip": "FirstProject.Infrastructure.cs\\Repository\\OrderRepository.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T15:56:54.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IOrderInterface.cs",
+              "DocumentMoniker": "C:\\First Project\\First Project\\PracticeProject\\App\\FirstProject\\FirstProject.domain.cs\\Interface\\IOrderInterface.cs",
+              "RelativeDocumentMoniker": "FirstProject.domain.cs\\Interface\\IOrderInterface.cs",
+              "ToolTip": "C:\\First Project\\First Project\\PracticeProject\\App\\FirstProject\\FirstProject.domain.cs\\Interface\\IOrderInterface.cs",
+              "RelativeToolTip": "FirstProject.domain.cs\\Interface\\IOrderInterface.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T15:55:52.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\First Project\\First Project\\PracticeProject\\App\\FirstProject\\FirstProject.domain.cs\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "FirstProject.domain.cs\\Entities\\Order.cs",
+              "ToolTip": "C:\\First Project\\First Project\\PracticeProject\\App\\FirstProject\\FirstProject.domain.cs\\Entities\\Order.cs",
+              "RelativeToolTip": "FirstProject.domain.cs\\Entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T15:54:37.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\First Project\\First Project\\PracticeProject\\App\\FirstProject\\FirstProject\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "FirstProject\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\First Project\\First Project\\PracticeProject\\App\\FirstProject\\FirstProject\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "FirstProject\\Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T16:00:59.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "C:\\First Project\\First Project\\PracticeProject\\App\\FirstProject\\FirstProject.Application.cs\\Interface\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "FirstProject.Application.cs\\Interface\\ICustomerService.cs",
+              "ToolTip": "C:\\First Project\\First Project\\PracticeProject\\App\\FirstProject\\FirstProject.Application.cs\\Interface\\ICustomerService.cs",
+              "RelativeToolTip": "FirstProject.Application.cs\\Interface\\ICustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T15:58:33.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\First Project\\First Project\\PracticeProject\\App\\FirstProject\\FirstProject.Application.cs\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "FirstProject.Application.cs\\Services\\CustomerService.cs",
+              "ToolTip": "C:\\First Project\\First Project\\PracticeProject\\App\\FirstProject\\FirstProject.Application.cs\\Services\\CustomerService.cs",
+              "RelativeToolTip": "FirstProject.Application.cs\\Services\\CustomerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T15:58:09.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\First Project\\First Project\\PracticeProject\\App\\FirstProject\\FirstProject.Infrastructure.cs\\Repository\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "FirstProject.Infrastructure.cs\\Repository\\CustomerRepository.cs",
+              "ToolTip": "C:\\First Project\\First Project\\PracticeProject\\App\\FirstProject\\FirstProject.Infrastructure.cs\\Repository\\CustomerRepository.cs",
+              "RelativeToolTip": "FirstProject.Infrastructure.cs\\Repository\\CustomerRepository.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAMwCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T15:56:33.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IUserInterface.cs",
+              "DocumentMoniker": "C:\\First Project\\First Project\\PracticeProject\\App\\FirstProject\\FirstProject.domain.cs\\Interface\\IUserInterface.cs",
+              "RelativeDocumentMoniker": "FirstProject.domain.cs\\Interface\\IUserInterface.cs",
+              "ToolTip": "C:\\First Project\\First Project\\PracticeProject\\App\\FirstProject\\FirstProject.domain.cs\\Interface\\IUserInterface.cs",
+              "RelativeToolTip": "FirstProject.domain.cs\\Interface\\IUserInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T15:56:19.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IProductInterface.cs",
+              "DocumentMoniker": "C:\\First Project\\First Project\\PracticeProject\\App\\FirstProject\\FirstProject.domain.cs\\Interface\\IProductInterface.cs",
+              "RelativeDocumentMoniker": "FirstProject.domain.cs\\Interface\\IProductInterface.cs",
+              "ToolTip": "C:\\First Project\\First Project\\PracticeProject\\App\\FirstProject\\FirstProject.domain.cs\\Interface\\IProductInterface.cs",
+              "RelativeToolTip": "FirstProject.domain.cs\\Interface\\IProductInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T15:56:03.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ICustomerInterface.cs",
+              "DocumentMoniker": "C:\\First Project\\First Project\\PracticeProject\\App\\FirstProject\\FirstProject.domain.cs\\Interface\\ICustomerInterface.cs",
+              "RelativeDocumentMoniker": "FirstProject.domain.cs\\Interface\\ICustomerInterface.cs",
+              "ToolTip": "C:\\First Project\\First Project\\PracticeProject\\App\\FirstProject\\FirstProject.domain.cs\\Interface\\ICustomerInterface.cs",
+              "RelativeToolTip": "FirstProject.domain.cs\\Interface\\ICustomerInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T15:55:42.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\First Project\\First Project\\PracticeProject\\App\\FirstProject\\FirstProject.domain.cs\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "FirstProject.domain.cs\\Entities\\User.cs",
+              "ToolTip": "C:\\First Project\\First Project\\PracticeProject\\App\\FirstProject\\FirstProject.domain.cs\\Entities\\User.cs",
+              "RelativeToolTip": "FirstProject.domain.cs\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T15:55:25.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\First Project\\First Project\\PracticeProject\\App\\FirstProject\\FirstProject.domain.cs\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "FirstProject.domain.cs\\Entities\\Customer.cs",
+              "ToolTip": "C:\\First Project\\First Project\\PracticeProject\\App\\FirstProject\\FirstProject.domain.cs\\Entities\\Customer.cs",
+              "RelativeToolTip": "FirstProject.domain.cs\\Entities\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T15:54:22.334Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

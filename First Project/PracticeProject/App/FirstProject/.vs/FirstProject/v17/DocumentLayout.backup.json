@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ZAKKI BOSS TRADERS\\Desktop\\PracticeProject\\App\\FirstProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B61D4E-9387-4107-A809-5E8356DFF0EA}|FirstProject.Infrastructure.cs\\FirstProject.Infrastructure.cs.csproj|c:\\users\\zakki boss traders\\desktop\\practiceproject\\app\\firstproject\\firstproject.infrastructure.cs\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0B61D4E-9387-4107-A809-5E8356DFF0EA}|FirstProject.Infrastructure.cs\\FirstProject.Infrastructure.cs.csproj|solutionrelative:firstproject.infrastructure.cs\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B94BF1D2-3BB7-4BC3-ABEE-4A99D3691CAF}|FirstProject\\FirstProject.csproj|c:\\users\\zakki boss traders\\desktop\\practiceproject\\app\\firstproject\\firstproject\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B94BF1D2-3BB7-4BC3-ABEE-4A99D3691CAF}|FirstProject\\FirstProject.csproj|solutionrelative:firstproject\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F9C3687-249E-43F7-93FD-4B28C303C79A}|FirstProject.Application.cs\\FirstProject.Application.cs.csproj|c:\\users\\zakki boss traders\\desktop\\practiceproject\\app\\firstproject\\firstproject.application.cs\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F9C3687-249E-43F7-93FD-4B28C303C79A}|FirstProject.Application.cs\\FirstProject.Application.cs.csproj|solutionrelative:firstproject.application.cs\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0B61D4E-9387-4107-A809-5E8356DFF0EA}|FirstProject.Infrastructure.cs\\FirstProject.Infrastructure.cs.csproj|c:\\users\\zakki boss traders\\desktop\\practiceproject\\app\\firstproject\\firstproject.infrastructure.cs\\repository\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0B61D4E-9387-4107-A809-5E8356DFF0EA}|FirstProject.Infrastructure.cs\\FirstProject.Infrastructure.cs.csproj|solutionrelative:firstproject.infrastructure.cs\\repository\\transactionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F9C3687-249E-43F7-93FD-4B28C303C79A}|FirstProject.Application.cs\\FirstProject.Application.cs.csproj|c:\\users\\zakki boss traders\\desktop\\practiceproject\\app\\firstproject\\firstproject.application.cs\\interface\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F9C3687-249E-43F7-93FD-4B28C303C79A}|FirstProject.Application.cs\\FirstProject.Application.cs.csproj|solutionrelative:firstproject.application.cs\\interface\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F9C3687-249E-43F7-93FD-4B28C303C79A}|FirstProject.Application.cs\\FirstProject.Application.cs.csproj|c:\\users\\zakki boss traders\\desktop\\practiceproject\\app\\firstproject\\firstproject.application.cs\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F9C3687-249E-43F7-93FD-4B28C303C79A}|FirstProject.Application.cs\\FirstProject.Application.cs.csproj|solutionrelative:firstproject.application.cs\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393E5E56-C435-488B-8A07-CFFF28DAA2D5}|FirstProject.domain.cs\\FirstProject.domain.cs.csproj|c:\\users\\zakki boss traders\\desktop\\practiceproject\\app\\firstproject\\firstproject.domain.cs\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{393E5E56-C435-488B-8A07-CFFF28DAA2D5}|FirstProject.domain.cs\\FirstProject.domain.cs.csproj|solutionrelative:firstproject.domain.cs\\entities\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{393E5E56-C435-488B-8A07-CFFF28DAA2D5}|FirstProject.domain.cs\\FirstProject.domain.cs.csproj|c:\\users\\zakki boss traders\\desktop\\practiceproject\\app\\firstproject\\firstproject.domain.cs\\interface\\itransactioninterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{393E5E56-C435-488B-8A07-CFFF28DAA2D5}|FirstProject.domain.cs\\FirstProject.domain.cs.csproj|solutionrelative:firstproject.domain.cs\\interface\\itransactioninterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ZAKKI BOSS TRADERS\\Desktop\\PracticeProject\\App\\FirstProject\\FirstProject.Infrastructure.cs\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "FirstProject.Infrastructure.cs\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\ZAKKI BOSS TRADERS\\Desktop\\PracticeProject\\App\\FirstProject\\FirstProject.Infrastructure.cs\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "FirstProject.Infrastructure.cs\\Repository\\ProductRepository.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADcAAABsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T18:14:01.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\ZAKKI BOSS TRADERS\\Desktop\\PracticeProject\\App\\FirstProject\\FirstProject\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "FirstProject\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\ZAKKI BOSS TRADERS\\Desktop\\PracticeProject\\App\\FirstProject\\FirstProject\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "FirstProject\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T16:37:42.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\ZAKKI BOSS TRADERS\\Desktop\\PracticeProject\\App\\FirstProject\\FirstProject.Application.cs\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "FirstProject.Application.cs\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\ZAKKI BOSS TRADERS\\Desktop\\PracticeProject\\App\\FirstProject\\FirstProject.Application.cs\\Services\\ProductService.cs",
+              "RelativeToolTip": "FirstProject.Application.cs\\Services\\ProductService.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T16:36:52.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TransactionService.cs",
+              "DocumentMoniker": "C:\\Users\\ZAKKI BOSS TRADERS\\Desktop\\PracticeProject\\App\\FirstProject\\FirstProject.Application.cs\\Services\\TransactionService.cs",
+              "RelativeDocumentMoniker": "FirstProject.Application.cs\\Services\\TransactionService.cs",
+              "ToolTip": "C:\\Users\\ZAKKI BOSS TRADERS\\Desktop\\PracticeProject\\App\\FirstProject\\FirstProject.Application.cs\\Services\\TransactionService.cs",
+              "RelativeToolTip": "FirstProject.Application.cs\\Services\\TransactionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T16:29:18.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ITransactionService.cs",
+              "DocumentMoniker": "C:\\Users\\ZAKKI BOSS TRADERS\\Desktop\\PracticeProject\\App\\FirstProject\\FirstProject.Application.cs\\Interface\\ITransactionService.cs",
+              "RelativeDocumentMoniker": "FirstProject.Application.cs\\Interface\\ITransactionService.cs",
+              "ToolTip": "C:\\Users\\ZAKKI BOSS TRADERS\\Desktop\\PracticeProject\\App\\FirstProject\\FirstProject.Application.cs\\Interface\\ITransactionService.cs",
+              "RelativeToolTip": "FirstProject.Application.cs\\Interface\\ITransactionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T16:28:50.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "C:\\Users\\ZAKKI BOSS TRADERS\\Desktop\\PracticeProject\\App\\FirstProject\\FirstProject.domain.cs\\Entities\\Transaction.cs",
+              "RelativeDocumentMoniker": "FirstProject.domain.cs\\Entities\\Transaction.cs",
+              "ToolTip": "C:\\Users\\ZAKKI BOSS TRADERS\\Desktop\\PracticeProject\\App\\FirstProject\\FirstProject.domain.cs\\Entities\\Transaction.cs",
+              "RelativeToolTip": "FirstProject.domain.cs\\Entities\\Transaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T16:28:39.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITransactionInterface.cs",
+              "DocumentMoniker": "C:\\Users\\ZAKKI BOSS TRADERS\\Desktop\\PracticeProject\\App\\FirstProject\\FirstProject.domain.cs\\Interface\\ITransactionInterface.cs",
+              "RelativeDocumentMoniker": "FirstProject.domain.cs\\Interface\\ITransactionInterface.cs",
+              "ToolTip": "C:\\Users\\ZAKKI BOSS TRADERS\\Desktop\\PracticeProject\\App\\FirstProject\\FirstProject.domain.cs\\Interface\\ITransactionInterface.cs",
+              "RelativeToolTip": "FirstProject.domain.cs\\Interface\\ITransactionInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T16:28:32.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TransactionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ZAKKI BOSS TRADERS\\Desktop\\PracticeProject\\App\\FirstProject\\FirstProject.Infrastructure.cs\\Repository\\TransactionRepository.cs",
+              "RelativeDocumentMoniker": "FirstProject.Infrastructure.cs\\Repository\\TransactionRepository.cs",
+              "ToolTip": "C:\\Users\\ZAKKI BOSS TRADERS\\Desktop\\PracticeProject\\App\\FirstProject\\FirstProject.Infrastructure.cs\\Repository\\TransactionRepository.cs",
+              "RelativeToolTip": "FirstProject.Infrastructure.cs\\Repository\\TransactionRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T16:28:19.713Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
